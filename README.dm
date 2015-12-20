@@ -20,3 +20,6 @@ create app and server folder
 >sudo npm install -g browserify
 >npm install --save reactify browserify
 >npm install --save vinyl-source-stream
+
+>npm install --save guid (deprecated)
+>npm install --save node-uuid

@@ -20,7 +20,9 @@
     "browser-sync": "^2.10.0",
     "browserify": "^12.0.1",
     "express": "^4.13.3",
+    "guid": "0.0.12",
     "gulp-live-server": "0.0.29",
+    "node-uuid": "^1.4.7",
     "react": "^0.14.3",
     "reactify": "^1.1.1",
     "vinyl-source-stream": "^1.1.0"
