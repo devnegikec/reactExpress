@@ -1,4 +1,4 @@
-var guid = require('uuid');
+var guid = require('node-uuid');
 var listeners = {};
 
 module.exports = {
